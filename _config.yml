@@ -1,0 +1,11 @@
+# Site settings
+title: User Interface Style Guide
+email: abinash.mohanty@gmail.com
+description: User Interface Style Guide project for front-end designers built using GitHub Pages and Jekyll.
+baseurl: "/ui-style-guide" # the subpath of your site, e.g. /blog/
+url: "http://abinashmohanty.github.io/ui-style-guide" # the base hostname & protocol for your site
+twitter_username: abinashmohanty
+github_username:  abinashmohanty
+
+# Build settings
+markdown: kramdown
